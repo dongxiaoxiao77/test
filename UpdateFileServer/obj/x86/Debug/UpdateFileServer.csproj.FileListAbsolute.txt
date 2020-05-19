@@ -1,0 +1,12 @@
+C:\Users\1005348\Downloads\xcong-CheckUpdate.Net-master\CheckUpdate.Net\CheckUpdate.Net\test\UpdateFileServer\bin\Debug\UpdateServer.xml
+C:\Users\1005348\Downloads\xcong-CheckUpdate.Net-master\CheckUpdate.Net\CheckUpdate.Net\test\UpdateFileServer\bin\Debug\UpdateFileServer.exe
+C:\Users\1005348\Downloads\xcong-CheckUpdate.Net-master\CheckUpdate.Net\CheckUpdate.Net\test\UpdateFileServer\bin\Debug\UpdateFileServer.pdb
+C:\Users\1005348\Downloads\xcong-CheckUpdate.Net-master\CheckUpdate.Net\CheckUpdate.Net\test\UpdateFileServer\bin\Debug\UpdateFileCommon.dll
+C:\Users\1005348\Downloads\xcong-CheckUpdate.Net-master\CheckUpdate.Net\CheckUpdate.Net\test\UpdateFileServer\bin\Debug\UpdateFileCommon.pdb
+C:\Users\1005348\Downloads\xcong-CheckUpdate.Net-master\CheckUpdate.Net\CheckUpdate.Net\test\UpdateFileServer\obj\x86\Debug\UpdateFileServer.csprojAssemblyReference.cache
+C:\Users\1005348\Downloads\xcong-CheckUpdate.Net-master\CheckUpdate.Net\CheckUpdate.Net\test\UpdateFileServer\obj\x86\Debug\UpdateFileServer.ConfigForm.resources
+C:\Users\1005348\Downloads\xcong-CheckUpdate.Net-master\CheckUpdate.Net\CheckUpdate.Net\test\UpdateFileServer\obj\x86\Debug\UpdateFileServer.Properties.Resources.resources
+C:\Users\1005348\Downloads\xcong-CheckUpdate.Net-master\CheckUpdate.Net\CheckUpdate.Net\test\UpdateFileServer\obj\x86\Debug\UpdateFileServer.csproj.GenerateResource.cache
+C:\Users\1005348\Downloads\xcong-CheckUpdate.Net-master\CheckUpdate.Net\CheckUpdate.Net\test\UpdateFileServer\obj\x86\Debug\UpdateFileServer.csproj.CopyComplete
+C:\Users\1005348\Downloads\xcong-CheckUpdate.Net-master\CheckUpdate.Net\CheckUpdate.Net\test\UpdateFileServer\obj\x86\Debug\UpdateFileServer.exe
+C:\Users\1005348\Downloads\xcong-CheckUpdate.Net-master\CheckUpdate.Net\CheckUpdate.Net\test\UpdateFileServer\obj\x86\Debug\UpdateFileServer.pdb

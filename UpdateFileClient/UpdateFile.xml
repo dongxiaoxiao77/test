@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" ?>
+<Config>
+  <ServerUrl>https://github.com/dongxiaoxiao77/test/blob/master/UpdateFileClient/UpdateFile.xml</ServerUrl>
+  <LocalVersion>1.0</LocalVersion>
+  <LocalVersionValue>1</LocalVersionValue>
+  <UpdateProgramDirectory>UpdateProgramDic</UpdateProgramDirectory>
+  <ClientProgramName>UpdateFileClient.exe</ClientProgramName>
+  <Setup>0</Setup>
+  <File>
+    <Item Name="Apply.exe.config" Version="1" Date="2020-05-11"></Item>
+  </File>
+</Config>
