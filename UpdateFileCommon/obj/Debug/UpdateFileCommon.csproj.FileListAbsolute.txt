@@ -1,0 +1,7 @@
+C:\Users\1005348\Downloads\xcong-CheckUpdate.Net-master\CheckUpdate.Net\CheckUpdate.Net\UpdateFileCommon\bin\Debug\UpdateFileCommon.dll
+C:\Users\1005348\Downloads\xcong-CheckUpdate.Net-master\CheckUpdate.Net\CheckUpdate.Net\UpdateFileCommon\bin\Debug\UpdateFileCommon.pdb
+C:\Users\1005348\Downloads\xcong-CheckUpdate.Net-master\CheckUpdate.Net\CheckUpdate.Net\UpdateFileCommon\obj\Debug\UpdateFileCommon.csprojAssemblyReference.cache
+C:\Users\1005348\Downloads\xcong-CheckUpdate.Net-master\CheckUpdate.Net\CheckUpdate.Net\UpdateFileCommon\obj\Debug\UpdateFileCommon.Properties.Resources.resources
+C:\Users\1005348\Downloads\xcong-CheckUpdate.Net-master\CheckUpdate.Net\CheckUpdate.Net\UpdateFileCommon\obj\Debug\UpdateFileCommon.csproj.GenerateResource.cache
+C:\Users\1005348\Downloads\xcong-CheckUpdate.Net-master\CheckUpdate.Net\CheckUpdate.Net\UpdateFileCommon\obj\Debug\UpdateFileCommon.dll
+C:\Users\1005348\Downloads\xcong-CheckUpdate.Net-master\CheckUpdate.Net\CheckUpdate.Net\UpdateFileCommon\obj\Debug\UpdateFileCommon.pdb
